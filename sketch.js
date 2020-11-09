@@ -17,7 +17,7 @@ function preload()
 function setup()
 {
   createCanvas(600,600);
-  spooky.play();
+  //spooky.play();
   
   
   tower = createSprite(300,300);
